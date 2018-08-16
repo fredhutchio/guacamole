@@ -1,0 +1,2 @@
+# Making a new dierctory.
+Cannot commit an empty directory.
