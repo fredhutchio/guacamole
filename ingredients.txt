@@ -1,2 +1,8 @@
 avocados
+onion
+jalapenos
+garlic
+salt
+lime
+tomatoes
 
