@@ -4,3 +4,7 @@ salt
 pepper
 onions
 tomato
+cilantro
+lemon
+pepper
+
