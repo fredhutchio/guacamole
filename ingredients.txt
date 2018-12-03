@@ -1,2 +1,6 @@
 avocados
-
+lemon
+salt
+pepper
+onions
+tomato
