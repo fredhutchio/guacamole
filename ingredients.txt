@@ -1,2 +1,7 @@
+ingredients:
 avocados
+garlic
+small onion
+lime
+cilantro
 
