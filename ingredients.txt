@@ -1,3 +1,6 @@
 avocados
-
+salt
+lime
+onion
+cilantro
 Some other stuff
