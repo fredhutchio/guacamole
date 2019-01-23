@@ -1,2 +1,4 @@
 avocados
 garlic
+banana
+strawbery
