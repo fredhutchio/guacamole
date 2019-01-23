@@ -1,2 +1,5 @@
 avocados
-
+spam
+cheese
+anchovies
+larksvomit (see Monty Python)
