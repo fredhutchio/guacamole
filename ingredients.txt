@@ -1,2 +1,5 @@
 avocados
-
+spicy stuff
+salt
+pepper
+lime
