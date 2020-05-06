@@ -1,2 +1,7 @@
 avocados
-
+onions
+jalapeno
+tomato
+lime juice
+salt
+cumin
