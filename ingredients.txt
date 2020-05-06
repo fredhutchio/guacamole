@@ -1,4 +1,8 @@
 avocados
 salt
 pepper
-lime
+onions
+jalapeno
+tomato
+lime juice
+cumin
