@@ -1,2 +1,4 @@
 avocados
-
+salt
+pepper
+lime
