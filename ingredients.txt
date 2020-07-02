@@ -1,2 +1,5 @@
 avocados
-
+jalapenos
+cilantro
+salt
+pepper
