@@ -1,2 +1,8 @@
 avocados
+salt
+pepper
+hot stuff
 
+- cut it
+- smoosh it
+- mix it
